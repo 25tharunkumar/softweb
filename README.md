@@ -712,10 +712,13 @@ home.html
 ```
 
 ## OUTPUT:
-
+# Home:
 ![Alt text](<Screenshot 2023-11-14 214010.png>) 
+# Product:
 ![Alt text](<Screenshot 2023-11-14 215045.png>) 
+# people:
 ![Alt text](<Screenshot 2023-11-14 215126.png>)
+# contact:
 ![Alt text](<Screenshot 2023-11-14 215247.png>) 
 
 ## RESULT:
