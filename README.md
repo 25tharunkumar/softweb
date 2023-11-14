@@ -713,10 +713,10 @@ home.html
 
 ## OUTPUT:
 
-![Alt text](<Screenshot 2023-11-14 215247.png>) 
-![Alt text](<Screenshot 2023-11-14 215045.png>) 
 ![Alt text](<Screenshot 2023-11-14 214010.png>) 
+![Alt text](<Screenshot 2023-11-14 215045.png>) 
 ![Alt text](<Screenshot 2023-11-14 215126.png>)
+![Alt text](<Screenshot 2023-11-14 215247.png>) 
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
